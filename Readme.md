@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/CinematicCow/ferris-say?color=dark-green) ![Issues](https://img.shields.io/github/issues/CinematicCow/ferris-say) ![License](https://img.shields.io/github/license/CinematicCow/ferris-say)
+![Contributors](https://img.shields.io/github/contributors/CinematicCow/ferris-say?color=dark-green) ![Issues](https://img.shields.io/github/issues/CinematicCow/ferris-say) ![License](https://img.shields.io/apm/l/vim-mode)
 
 ## About The Project
 
